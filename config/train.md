@@ -1,0 +1,1 @@
+Treinado em 1 GPU H100
